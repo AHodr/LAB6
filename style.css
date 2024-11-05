@@ -1,0 +1,53 @@
+h1{
+	color:white;
+	font-family:arial black;
+}
+h2{
+	color:rgb(200,162,200);
+	font-family:courier;
+	text-align:center;
+}
+h3{
+	color:navy;
+	font-family:arial; 
+} 
+body{
+	background:rgb(248,248,248);
+}
+p{
+	font-family:courier;
+	color:black;
+}
+ul{
+	font-family:courier new;
+	color:black;
+}
+.image-resize {
+    width: 200px;
+    height: 150px; 
+    object-fit: cover; 
+    border-radius: 5px;
+}
+.my-background-class {
+    background-image: url('images/heading.jpg');
+    background-size: cover; 
+    background-position: center;
+    height: 200px;
+}
+.href{
+	color:white;
+}
+.underline{
+	text-decoration:underline;
+}
+.generalFont{
+	color:black;
+	font-family:arial black;
+}
+.bold{
+	text-decoration:underline
+}
+.bullet{
+	list-style-type: square;
+}
+	
